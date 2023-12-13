@@ -1,5 +1,7 @@
 # football-scouting-v3
 
+![0b1495d3_1 output](https://github.com/maldiharyojudanto/football-scouting-v3/assets/76139419/029947e3-2050-405e-9524-82d1d8297d3d)
+
 Sistem football-scouting-v3 dapat **mendeteksi player (beserta warna jersey), bola, ball possession, dan passing** menggunakan model **Yolov8 dan traditional rule based**.
 
 ## Keterangan file .py :
@@ -119,6 +121,6 @@ Sistem football-scouting-v3 dapat **mendeteksi player (beserta warna jersey), bo
 
 ## Output (contoh) : [di sini](https://drive.google.com/drive/folders/1ZMHMoCTyfX0gP7io4abAmOvHOJi87Gj2?usp=sharing)
 
-Bandung, 7 Desember 2023
+Bandung, 11 Desember 2023
 
 Aldi ❤️ Made with heart
