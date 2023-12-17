@@ -1,7 +1,10 @@
 # football-scouting-v3
 
+## Demo
 ![0b1495d3_1 output](https://github.com/maldiharyojudanto/football-scouting-v3/assets/76139419/029947e3-2050-405e-9524-82d1d8297d3d)
 
+## Sistem desain
+![sistemdesainv3](https://github.com/maldiharyojudanto/football-scouting-v3/assets/76139419/9eba26ec-4636-48b0-b395-e6672e65b69b)
 Sistem football-scouting-v3 dapat **mendeteksi player (beserta warna jersey), bola, ball possession, dan passing** menggunakan model **Yolov8 dan traditional rule based**.
 
 ## Keterangan file .py :
@@ -30,7 +33,7 @@ Sistem football-scouting-v3 dapat **mendeteksi player (beserta warna jersey), bo
     - Input dataset yang sudah dianotasi (dari roboflow)
     - Output model deteksi objek best.pt
 
-## Keterangan model .pt yang telah di-train (link model terdapat di [petunjuk pemakaian](https://github.com/maldiharyojudanto/football-scouting-v1/tree/main?tab=readme-ov-file#petunjuk-pemakaian-)) :
+## Keterangan model .pt yang telah di-train (link model terdapat di [petunjuk pemakaian](https://github.com/maldiharyojudanto/football-scouting-v3?tab=readme-ov-file#petunjuk-pemakaian-)) :
 1. 'soccer-detection-v2-best-n-200-aug'
     - soccer-detection-v2 : Dataset yang diambil dari roboflow
     - best : Model yang terbaik hasil training
@@ -98,7 +101,7 @@ Sistem football-scouting-v3 dapat **mendeteksi player (beserta warna jersey), bo
     contoh file folder project ini di 'Desktop/TA', 
     maka perintah untuk ke folder tersebut adalah 'cd Desktop/TA'
 3. Buat folder 'input', 'output', dan 'weights' di root foolder
-4. Download video untuk dilakukan prediksi (link dataset di [bawah](https://github.com/maldiharyojudanto/football-scouting-v1/tree/main?tab=readme-ov-file#link-dataset-))
+4. Download video untuk dilakukan prediksi (link dataset di [bawah](https://github.com/maldiharyojudanto/football-scouting-v3?tab=readme-ov-file#link-dataset-))
 5. Paste video ke folder 'input'
 6. Download weights di [sini](https://drive.google.com/drive/folders/14HF1AErJAaSnmk8jtjDufTEiVnECrVBZ?usp=sharing)
 7. Paste hasil download ke folder 'weights' yang sudah dibuat sebelumnya
