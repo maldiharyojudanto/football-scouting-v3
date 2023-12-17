@@ -4,7 +4,7 @@
 ![0b1495d3_1 output](https://github.com/maldiharyojudanto/football-scouting-v3/assets/76139419/029947e3-2050-405e-9524-82d1d8297d3d)
 
 ## Sistem desain
-![sistemdesainv3](https://github.com/maldiharyojudanto/football-scouting-v3/assets/76139419/9eba26ec-4636-48b0-b395-e6672e65b69b)
+![sistemdesainv3](https://github.com/maldiharyojudanto/football-scouting-v3/assets/76139419/89933a7b-119e-4842-88e0-9db0c8a86aa9)
 Sistem football-scouting-v3 dapat **mendeteksi player (beserta warna jersey), bola, ball possession, dan passing** menggunakan model **Yolov8 dan traditional rule based**.
 
 ## Keterangan file .py :
